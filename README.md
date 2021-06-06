@@ -8,18 +8,18 @@
         <table width="100%" align="center" cellspacing="0" cellpadding="5" border="1">
             <tbody>
                 <thead align="center">
-                    <td width="30%">
+                    <td width="150">
                         <strong>TOPICS</strong>
                     </td>
-                    <td width="70%"><strong>Key Subtopics<br></strong></td>
+                    <td width="250"><strong>Key Subtopics<br></strong></td>
                 </thead>
                 <tr>
-                    <td width="30%" align="center">
+                    <td width="150" align="center">
                         <p>
                             Basic Tips<br>
                         </p>
                     </td>
-                    <td width="70%">
+                    <td width="250">
                         <ul>
                             <li><a href="OOP_rules.md">General Rules of Objects in Python</a></li>
                         </ul>
