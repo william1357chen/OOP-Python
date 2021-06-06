@@ -5,21 +5,21 @@
 
 <body>
     <main>
-        <table width="100%" align="center" cellspacing="0" cellpadding="5" border="1">
+        <table align="center" cellspacing="0" cellpadding="5" border="1">
             <tbody>
                 <thead align="center">
-                    <td width="150">
+                    <td width="250">
                         <strong>TOPICS</strong>
                     </td>
-                    <td width="250"><strong>Key Subtopics<br></strong></td>
+                    <td width="500"><strong>Key Subtopics<br></strong></td>
                 </thead>
                 <tr>
-                    <td width="150" align="center">
+                    <td width="250" align="center">
                         <p>
                             Basic Tips<br>
                         </p>
                     </td>
-                    <td width="250">
+                    <td width="500">
                         <ul>
                             <li><a href="OOP_rules.md">General Rules of Objects in Python</a></li>
                         </ul>
